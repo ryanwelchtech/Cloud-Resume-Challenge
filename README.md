@@ -25,3 +25,11 @@ Series of challenges, which deepen AWS knowledge and provide an opportunity to p
       - [4.1 Infrastructure as Code (IaC)](#41-infrastructure-as-code-iac)
       - [4.2 CI/CD](#42-cicd)
       - [4.3 Monitoring](#43-monitoring)
+
+### Stage 1 - Creating Front End
+
+This section is about building the visual representation of resume using plain HTML, CSS and JavaScript (which gets more important at stage 2).
+
+#### 1.1 HTML
+
+The resume should be created using HTML. It does not have to be pretty or contain sublime styling, since the challenge is not about perfect styling and responsive web design.
